@@ -12,7 +12,7 @@ Além disso, todas as tarefas são salvas localmente no navegador usando o `loca
 
 ```bash
 git clone https://github.com/bxzzxnx/To-Do-App.git
-cd To-Do App
+cd To-Do-App
 npm install
 ```
 
